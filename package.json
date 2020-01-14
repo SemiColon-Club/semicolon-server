@@ -1,0 +1,22 @@
+{
+  "name": "semicolon-server",
+  "version": "1.0.0",
+  "description": "Semicolon API's hosted on AWS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SemiColon-Club/semicolon-server.git"
+  },
+  "author": "Team Semicolon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SemiColon-Club/semicolon-server/issues"
+  },
+  "homepage": "https://github.com/SemiColon-Club/semicolon-server#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
